@@ -1,0 +1,36 @@
+[
+    {
+        "id": "1",
+        "username": "John Doe",
+        "password": "1234",
+        "posts": [
+            {
+                "title": "The Power of Artificial Intelligence",
+                "date": "2023-07-15",
+                "content": "Artificial Intelligence (AI) has transformed various industries...",
+                "tags": [
+                    "AI",
+                    "Technology",
+                    "Innovation"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "username": "Jane Smith",
+        "password": "5678",
+        "posts": [
+            {
+                "title": "Exploring the Depths of Deep Learning",
+                "date": "2023-09-28",
+                "content": "Deep Learning has revolutionized the field of machine learning...",
+                "tags": [
+                    "Deep Learning",
+                    "Machine Learning",
+                    "Neural Networks"
+                ]
+            }
+        ]
+    }
+]

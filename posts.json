@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "The Power of Artificial Intelligence",
+      "author": "John Doe",
+      "date": "2023-07-15",
+      "content": "Artificial Intelligence (AI) has transformed various industries...",
+      "tags": [
+        "AI",
+        "Technology",
+        "Innovation"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Exploring the Depths of Deep Learning",
+      "author": "Jane Smith",
+      "date": "2023-09-28",
+      "content": "Deep Learning has revolutionized the field of machine learning...",
+      "tags": [
+        "Deep Learning",
+        "Machine Learning",
+        "Neural Networks"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "ARKx",
+      "author": "John Doe",
+      "date": "2024-01-01",
+      "content": "Artificial Intelligence (AI) has transformed various industries...",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "test2",
+      "author": "John ",
+      "date": "2024-01-01",
+      "content": "Artificial Intelligence (AI) has transformed various industries...",
+      "tags": [
+        "AI"
+      ]
+    }
+  ]
+}
